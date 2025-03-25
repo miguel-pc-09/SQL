@@ -1,0 +1,1 @@
+SELECT DISTINCT age FROM user; --Traera de la tabla user la columna age sin numeros repetidos o partes repetidas
