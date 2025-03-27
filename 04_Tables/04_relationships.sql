@@ -83,7 +83,7 @@ INSERT INTO dni (dni_number) VALUES (44444444);
 1:N
 */
 -- "companies" y "users"  (Relación 1:N)
-INSERT INTO companies (name) VALUES ('MoureDev');
+INSERT INTO companies (name) VALUES ('Avenida');
 INSERT INTO companies (name) VALUES ('Apple');
 INSERT INTO companies (name) VALUES ('Google');
 
