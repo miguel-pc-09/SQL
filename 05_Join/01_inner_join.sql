@@ -1,5 +1,5 @@
 /*
-INNER JOIN (JOIN)
+INNER JOIN (JOIN)-> Es un comando que nos sirve para obtener los datos comunes de ambas tablas
 */
 
       -- Realiza un JOIN de manera incorrecta, ya que no existe un campo de relación
